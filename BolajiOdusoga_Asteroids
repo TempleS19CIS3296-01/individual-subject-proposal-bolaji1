@@ -1,0 +1,14 @@
+Project Relevance
+
+For my project I wanted to create remake a 2D arcade game called asteroids with better graphics. Creating this game would fulfill the goals that are linked with software design. Project management is important in this project because my team members need to be able to do their workload on time so that we can combine all of our work to complete the assignment. The building aspect is important because it is how we’re going to create the game. The testing aspect is important because it makes sure that the spaceship in the game is able to move, shoot, and run smoothly. As well as the asteroids that will be place in the game.
+Conceptual Design
+
+For my project I wanted to recreate the famous Asteroid game but with better graphics. Asteroids is an arcade space shooter where the player controls a spaceship in an asteroid field which is traversed by flying saucers. The object of the game is to shoot and destroy asteroids and saucers while not colliding with either or being hit by the saucers' counter-fire. In the game we would implement a good music playlist that would be playing while the user is playing the game. Also, as the levels get harder the music speed will increase slightly. 
+
+Background
+https://en.wikipedia.org/wiki/Asteroids_(video_game)
+
+Required Resources
+•	Group members
+•	Java
+
